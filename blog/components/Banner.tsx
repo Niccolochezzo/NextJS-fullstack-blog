@@ -7,7 +7,7 @@ const Banner = () => {
         <h1 className="text-7xl">Weekly Blog</h1>
         <h2 className="mt-5 md:mt-0">
           The{" "}
-          <span className="underline decoration-4 decoration-[#f7ab0a]">
+          <span className="underline decoration-4 decoration-[#ff3333]">
             Internet
           </span>{" "}
           has no eraser
